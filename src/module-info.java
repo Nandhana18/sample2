@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Multimedia
+ *
+ */
+module samplejava {
+}
